@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599759972 source:c:\users\kiit\documents\codeblocks\minmax_using_bruteforce\main.c
+	<stdio.h>
+	<time.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599131501 source:c:\users\kiit\documents\codeblocks\selection_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

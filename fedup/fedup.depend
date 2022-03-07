@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599751441 source:c:\users\kiit\documents\codeblocks\fedup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

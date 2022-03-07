@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599279756 source:c:\users\kiit\documents\codeblocks\binary_search\main.c
+	<stdio.h>
+	<stdlib.h>
+
